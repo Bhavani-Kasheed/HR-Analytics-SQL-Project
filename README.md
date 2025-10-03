@@ -1,15 +1,27 @@
-# HR Database Project (MySQL)
+# HR Analytics SQL Project (MySQL)
 
-This project demonstrates the **HR (Human Resources) database schema** in MySQL along with 20 practical SQL queries.  
-It is widely used for learning **SQL, HR Analytics, and employee management use cases**.  
+## Project Summary
+This project builds an HR database and uses SQL queries to analyze employees, departments, salaries, jobs, and locations. It helps uncover HR trends, reporting structures, and employee insights while demonstrating strong relational database skills.
 
----
+## Key Features & Components
+- Database design with tables: Employees, Departments, Jobs, Locations
+- SQL queries for:
+  - Employee distribution by department and location
+  - Salary and compensation analysis
+  - Managerial hierarchies
+  - Hiring and job trend analysis
+- Sample queries and instructions provided in README
+- Clear schema and relational design
 
-## 📌 Database Overview
+## Technologies / Tools Used
+- SQL / MySQL
+- Database modeling & relational schema
+- Query scripts and documentation
 
-The HR database models a company's workforce. It contains tables for **employees, departments, jobs, job history, and locations**.  
-It is designed to practice joins, filtering, aggregation, and reporting queries.
-
+## Why It’s Valuable
+- Demonstrates ability to design and query relational databases
+- Provides HR insights from structured data
+- Shows practical SQL knowledge applicable in analytics and HR data roles
 ---
 
 ## 🗂️ Schema Details
